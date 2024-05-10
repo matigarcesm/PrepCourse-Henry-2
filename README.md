@@ -1,2 +1,2 @@
-# PrepCourse-Henry-2
-Repositorio de prueba modulo 2
+Matias Garces  
+Este proyecto es una prueba de como clonar desde github a mi computador
